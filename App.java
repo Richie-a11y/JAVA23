@@ -5,7 +5,7 @@ public class App {
     }
     
     public static void main(String[] args) {
-        App a = new App();
+        App app = new App();
         
         System.err.print(App.add(49, 3));
    
